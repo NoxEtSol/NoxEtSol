@@ -13,7 +13,9 @@
 - CI/CD - Github Actions, Heroku
 - Git, Github, Postman
 - JIRA, SCRUM
-💡I'm also interested in learning C#, Unity and graphic design
+
+
+💡I'm also interested in learning C#, Unity and graphic design<br>
 💬 Ask me about anything! :)
 
 
