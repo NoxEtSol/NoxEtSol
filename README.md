@@ -13,8 +13,7 @@
 - Gradle, Maven<br>
 - CI/CD - Github Actions, Heroku<br>
 - Git, Github, Postman<br>
-- JIRA, SCRUM<br>
-💬 Ask me about anything! :)
+- JIRA, SCRUM<br>💬 Ask me about anything! :)
 
 
 ## 🌐 Socials:
