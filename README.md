@@ -1,9 +1,8 @@
 ### Hi there and welcome! 👋
 
 # 💫 About Me:
-🔭 I’m currently working on to become a full-time Java backend developer.<br>👯 I’m looking to collaborate on anything that would keep me grow :)<br>🤝 I’m looking for help with getting better in code related world<br>🌱 I’m currently learning:<br>
-- Java, C#<br> 
-- Unity<br> 
+🔭 I’m currently working on to become a full-time Java backend developer.<br>👯 I’m looking to collaborate on anything that would keep me grow :)<br>🤝 I’m looking for help with getting better in code related world<br>🌱 I consider myself as a junior in:<br>
+- Java,
 - Spring Boot<br> 
 - REST API, Retrofit<br>
 - Spring Security, OAuth, JWT<br>
@@ -13,7 +12,8 @@
 - Gradle, Maven<br>
 - CI/CD - Github Actions, Heroku<br>
 - Git, Github, Postman<br>
-- JIRA, SCRUM<br>💬 Ask me about anything! :)
+- JIRA, SCRUM<br>💡I'm also interested in learning C#, Unity and graphic design<br>💬 Ask me about anything! :)
+
 
 
 ## 🌐 Socials:
