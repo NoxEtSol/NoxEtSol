@@ -2,17 +2,19 @@
 
 # 💫 About Me:
 🔭 I’m currently working on to become a full-time Java backend developer.<br>👯 I’m looking to collaborate on anything that would keep me grow :)<br>🤝 I’m looking for help with getting better in code related world<br>🌱 I consider myself as a junior in:<br>
-- Java,
-- Spring Boot<br> 
-- REST API, Retrofit<br>
-- Spring Security, OAuth, JWT<br>
-- JDBC, JPA, Hibernate, Flyway, SQL<br>
-- JUnit 5, Mockito, H2<br>
-- Thymeleaf, HTML5, CSS3<br>
-- Gradle, Maven<br>
-- CI/CD - Github Actions, Heroku<br>
-- Git, Github, Postman<br>
-- JIRA, SCRUM<br>💡I'm also interested in learning C#, Unity and graphic design<br>💬 Ask me about anything! :)
+- Java
+- Spring Boot
+- REST API, Retrofit
+- Spring Security, OAuth, JWT
+- JDBC, JPA, Hibernate, Flyway, SQL
+- JUnit 5, Mockito, H2
+- Thymeleaf, HTML5, CSS3
+- Gradle, Maven
+- CI/CD - Github Actions, Heroku
+- Git, Github, Postman
+- JIRA, SCRUM
+💡I'm also interested in learning C#, Unity and graphic design
+💬 Ask me about anything! :)
 
 
 
