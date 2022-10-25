@@ -1,7 +1,20 @@
 ### Hi there and welcome! 👋
 
 # 💫 About Me:
-🔭 I’m currently working on to become a full-time Java backend developer.<br>👯 I’m looking to collaborate on anything that would keep me grow :)<br>🤝 I’m looking for help with getting better in code related world<br>🌱 I’m currently learning:<br> - Java, C#<br> - Unity<br> - Spring Boot<br> - REST API, Retrofit<br> - Spring Security, OAuth, JWT<br> - JDBC, JPA, Hibernate, Flyway, SQL<br> - JUnit 5, Mockito, H2<br> - Thymeleaf, HTML5, CSS3<br> - Gradle, Maven<br> - CI/CD - Github Actions, Heroku<br> - Git, Github, Postman<br> - JIRA, SCRUM<br>💬 Ask me about anything! :)
+🔭 I’m currently working on to become a full-time Java backend developer.<br>👯 I’m looking to collaborate on anything that would keep me grow :)<br>🤝 I’m looking for help with getting better in code related world<br>🌱 I’m currently learning:<br>
+- Java, C#<br> 
+- Unity<br> 
+- Spring Boot<br> 
+- REST API, Retrofit<br>
+- Spring Security, OAuth, JWT<br>
+- JDBC, JPA, Hibernate, Flyway, SQL<br>
+- JUnit 5, Mockito, H2<br>
+- Thymeleaf, HTML5, CSS3<br>
+- Gradle, Maven<br>
+- CI/CD - Github Actions, Heroku<br>
+- Git, Github, Postman<br>
+- JIRA, SCRUM<br>
+💬 Ask me about anything! :)
 
 
 ## 🌐 Socials:
