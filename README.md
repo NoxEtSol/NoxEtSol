@@ -15,7 +15,7 @@
 - JIRA, SCRUM
 
 
-💡I'm also interested in learning C#, Unity and graphic design<br>
+💡I'm also interested in learning C/C#/C++, Unity/UnrealEngine and graphic design<br>
 💬 Ask me about anything! :)
 
 
