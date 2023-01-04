@@ -15,7 +15,7 @@
 - JIRA, SCRUM
 
 
-💡I'm also interested in learning C/C#/C++, Unity/UnrealEngine and graphic design<br>
+💡I'm also interested in learning different languages and frameworks<br>
 💬Ask me about anything! :)
 
 ✍️My Portfolio available [here](https://noxetsol.github.io/)
